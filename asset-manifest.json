@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/careprice-landing-page/static/css/main.b770f921.css",
+    "main.js": "/careprice-landing-page/static/js/main.00c12a6f.js",
+    "index.html": "/careprice-landing-page/index.html",
+    "main.b770f921.css.map": "/careprice-landing-page/static/css/main.b770f921.css.map",
+    "main.00c12a6f.js.map": "/careprice-landing-page/static/js/main.00c12a6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b770f921.css",
+    "static/js/main.00c12a6f.js"
+  ]
+}
